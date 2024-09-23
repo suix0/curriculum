@@ -208,7 +208,7 @@ This code will behave exactly like the code from the last lesson; it just looks 
 
 <div class="lesson-content__panel" markdown="1">
 
-1. Read this [Async and Await article](https://www.freecodecamp.org/news/javascript-async-await/) for a solid introduction to async/await. This [Async and Await examples article](https://codeburst.io/javascript-es-2017-learn-async-await-by-example-48acc58bad65) also has some good examples of its use.
+1. Read this [Async and Await article](https://javascript.info/async-await) for a solid introduction to async/await. This [Async and Await examples article](https://codeburst.io/javascript-es-2017-learn-async-await-by-example-48acc58bad65) also has some good examples of its use.
 1. Watch this [Async and Await video by Wes Bos](https://www.youtube.com/watch?v=9YkUCxvaLEk) for a good overview on async/await and its purpose, along with a special trick.
 
 </div>
